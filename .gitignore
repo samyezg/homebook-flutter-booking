@@ -1,0 +1,56 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+#.vscode/
+.vscode/supabase.local.json
+.vscode/supabase.secrets.local.md
+.vscode/supabase.secrets.local.json
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+app.*.symbols
+app.*.map.json
+
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+**/android/local.properties
+/android/.gradle/
+/android/.kotlin/
+
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/ephemeral/
+
+.temp/
+
+# Portfolio raw screenshots (local only)
+docs/screenshots/raw/
+# Generated compose HTML (rebuild from compose/compose.py)
+docs/screenshots/compose/_html/

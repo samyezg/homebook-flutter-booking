@@ -1,0 +1,50 @@
+name: homebook_app
+description: HomeBook — home services booking MVP (Riverpod + calendar + dual role).
+publish_to: "none"
+version: 0.7.4+11
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_riverpod: ^3.3.1
+  go_router: ^17.2.3
+  intl: ^0.20.2
+  shared_preferences: ^2.2.0
+  table_calendar: ^3.2.0
+  supabase_flutter: ^2.12.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/homebook_icon.png"
+  min_sdk_android: 21
+  remove_alpha_ios: true
+  adaptive_icon_background: "#10B981"
+  adaptive_icon_foreground: "assets/icons/homebook_foreground.png"
+  web:
+    generate: true
+    image_path: "assets/icons/homebook_icon.png"
+    background_color: "#10B981"
+    theme_color: "#10B981"
+
+flutter:
+  generate: true
+  uses-material-design: true
+  fonts:
+    - family: Plus Jakarta Sans
+      fonts:
+        - asset: assets/fonts/PlusJakartaSans-Variable.ttf
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Variable.ttf

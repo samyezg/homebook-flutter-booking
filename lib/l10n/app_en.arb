@@ -1,0 +1,196 @@
+{
+  "@@locale": "en",
+  "appTitle": "HomeBook",
+  "navHome": "Home",
+  "navBookings": "Bookings",
+  "navProfile": "Profile",
+  "language": "Language",
+  "languageSystem": "System",
+  "languageEnglish": "English",
+  "languageChinese": "中文",
+  "searchServicesHint": "Search services…",
+  "categories": "Categories",
+  "categoryAll": "All",
+  "categoryCleaning": "Cleaning",
+  "categoryRepair": "Repair",
+  "categoryRenovation": "Renovation",
+  "categoryMoving": "Moving",
+  "allServices": "All services",
+  "servicesCountPayOnSite": "{count} services · pay on site",
+  "@servicesCountPayOnSite": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "noMatchingServices": "No matching services.",
+  "serviceDetailTitle": "Service",
+  "serviceMissing": "This service is unavailable.",
+  "payOnSite": "Pay on site",
+  "durationPricePayOnSite": "{duration} · {price} · pay on site",
+  "@durationPricePayOnSite": {
+    "placeholders": {
+      "duration": {"type": "String"},
+      "price": {"type": "String"}
+    }
+  },
+  "serviceIncludes": "What's included",
+  "provider": "Provider",
+  "providerMissing": "Provider details unavailable.",
+  "bookNow": "Book now · {price}",
+  "@bookNow": {
+    "placeholders": {
+      "price": {"type": "String"}
+    }
+  },
+  "bookTitle": "Book service",
+  "selectDate": "Select a date",
+  "selectTime": "Select a time · {date}",
+  "@selectTime": {
+    "placeholders": {
+      "date": {"type": "String"}
+    }
+  },
+  "visitAddress": "Visit address",
+  "addressHint": "Enter the visit address",
+  "defaultAddressHint": "88 Demo Rd, Wuhua, Kunming",
+  "notesOptional": "Notes (optional)",
+  "notesHint": "Gate code, contact, etc.",
+  "slotNotSelected": "No time selected",
+  "bookingSummary": "Total {price} · {slot} · pay on site",
+  "@bookingSummary": {
+    "placeholders": {
+      "price": {"type": "String"},
+      "slot": {"type": "String"}
+    }
+  },
+  "submitting": "Submitting…",
+  "confirmBooking": "Confirm booking · {price}",
+  "@confirmBooking": {
+    "placeholders": {
+      "price": {"type": "String"}
+    }
+  },
+  "selectTimeSlot": "Please select a time slot.",
+  "enterAddress": "Please enter the visit address.",
+  "slotUnavailable": "That time is unavailable. Pick another.",
+  "myBookings": "My bookings",
+  "bookingsEmpty": "No bookings yet.",
+  "filterAll": "All",
+  "statusPending": "Pending",
+  "statusAccepted": "Accepted",
+  "statusInProgress": "In progress",
+  "statusCompleted": "Completed",
+  "statusCancelled": "Cancelled",
+  "bookingDetailTitle": "Booking details",
+  "bookingMissing": "This booking was not found.",
+  "statusTracking": "Status",
+  "bookingCancelledBanner": "This booking was cancelled.",
+  "labelTime": "Time",
+  "labelAddress": "Address",
+  "labelNotes": "Notes",
+  "labelPayment": "Payment",
+  "labelMyReview": "My review",
+  "reviewStars": "{rating} stars",
+  "@reviewStars": {
+    "placeholders": {
+      "rating": {"type": "int"}
+    }
+  },
+  "contactProvider": "Contact provider",
+  "contactUnavailable": "Contact is unavailable right now.",
+  "durationDays": "{count}d",
+  "@durationDays": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "durationHours": "{count}h",
+  "@durationHours": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "durationMinutesLabel": "{count} min",
+  "@durationMinutesLabel": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "writeReview": "Write a review",
+  "cancelBooking": "Cancel booking",
+  "cancelBookingTitle": "Cancel this booking?",
+  "cancelBookingBody": "Cancelled bookings cannot be restored.",
+  "back": "Back",
+  "confirmCancel": "Confirm cancel",
+  "bookingCancelledSnack": "Booking cancelled.",
+  "reviewTitle": "Review",
+  "reviewServiceTitle": "Review the service",
+  "reviewAlreadySubmitted": "This booking already has a review.",
+  "rating": "Rating",
+  "commentOptional": "Comment (optional)",
+  "commentHint": "How was the service?",
+  "submitReview": "Submit review",
+  "reviewSubmitted": "Review submitted.",
+  "providerHomeTitle": "Provider dashboard",
+  "switchToProviderRole": "Switch to provider",
+  "providerProfile": "Provider profile",
+  "inProgressCompletedCount": "{active} in progress · {completed} completed",
+  "@inProgressCompletedCount": {
+    "placeholders": {
+      "active": {"type": "int"},
+      "completed": {"type": "int"}
+    }
+  },
+  "newBookings": "New bookings",
+  "noPendingBookings": "No pending bookings.",
+  "reject": "Decline",
+  "accept": "Accept",
+  "myActive": "In progress",
+  "noActiveBookings": "No bookings in progress.",
+  "startService": "Start service",
+  "complete": "Complete",
+  "availableHours": "Available hours",
+  "details": "Details",
+  "profileTitle": "Profile",
+  "account": "Account",
+  "signInOrSignUp": "Sign in / Sign up",
+  "signInToSaveBookings": "Sign in to save bookings",
+  "signedIn": "Signed in",
+  "guestSession": "Guest session",
+  "syncNow": "Refresh",
+  "syncRefreshed": "Bookings and reviews refreshed.",
+  "signOut": "Sign out",
+  "currentRole": "Role",
+  "roleUser": "Customer",
+  "roleProvider": "Provider",
+  "roleHint": "Switch roles in this app to take bookings as a provider.",
+  "providerWorkbench": "Provider dashboard",
+  "providerWorkbenchSubtitle": "Accept and advance bookings",
+  "switchToProvider": "Switch to Provider",
+  "switchToProviderHint": "Then open the dashboard to take jobs.",
+  "payment": "Payment",
+  "paymentPayOnSite": "Pay on site / cash",
+  "signIn": "Sign in",
+  "signInTitle": "Sign in",
+  "welcomeTitle": "Welcome to HomeBook",
+  "signInSubtitle": "Sign in to sync bookings and reviews.",
+  "email": "Email",
+  "password": "Password",
+  "signingIn": "Signing in…",
+  "noAccountSignUp": "No account? Sign up",
+  "signUp": "Sign up",
+  "signUpTitle": "Create account",
+  "joinTitle": "Join HomeBook",
+  "signUpSubtitle": "Create an account to save bookings and reviews.",
+  "creatingAccount": "Creating account…",
+  "haveAccountSignIn": "Already have an account? Sign in",
+  "authEmailRequired": "Enter your email.",
+  "authEmailInvalid": "Enter a valid email address.",
+  "authPasswordRequired": "Enter your password.",
+  "authPasswordTooShort": "Password must be at least {min} characters.",
+  "@authPasswordTooShort": {
+    "placeholders": {
+      "min": {"type": "int"}
+    }
+  }
+}

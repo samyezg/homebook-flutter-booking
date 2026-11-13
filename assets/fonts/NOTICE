@@ -1,0 +1,16 @@
+Font software bundled with HomeBook
+===================================
+
+This directory contains the following fonts, each under the SIL Open Font
+License, Version 1.1 (see OFL.txt in this folder):
+
+1. Inter (variable)
+   Copyright (c) 2016-2020 The Inter Project Authors
+   https://github.com/rsms/inter
+
+2. Plus Jakarta Sans (variable)
+   Copyright (c) 2020 The Plus Jakarta Sans Project Authors
+   https://github.com/tokotype/PlusJakartaSans
+
+Redistribution of these font files must keep this NOTICE and OFL.txt
+together with the font software, as required by the OFL.
